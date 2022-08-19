@@ -3,7 +3,7 @@ Generates Faces of "Emilia", a charater from "Re:zero" [Try it](https://scapp.us
 
 [Inspired by](https://github.com/taziksh/hayasaka.ai)
 
-Using NVIDIA's StyleGAN 2 with Ada, it is possible to train with less datasets.  
+Using NVIDIA's StyleGAN 2 with Ada, it is possible to train with less datasets.  Implemented using sources from [stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
 ## Training process
 Started with [High-Resolution Anime Face Dataset (512x512)](https://www.kaggle.com/datasets/subinium/highresolution-anime-face-dataset-512x512) to pre-train the model,
